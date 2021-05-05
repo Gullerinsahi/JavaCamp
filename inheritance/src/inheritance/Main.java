@@ -21,7 +21,7 @@ public class Main {
 		
 		Customer[] customer = {engin,abc, hepsiBurada};
 		
-		customerManager.addMultiple(customers);
+	
 		
 		
 	}
